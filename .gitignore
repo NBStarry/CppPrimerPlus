@@ -5,3 +5,4 @@ Chapter*/*
 *.pdf
 
 !Chapter*/*.cpp
+!Chapter*/*.md
