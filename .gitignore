@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+Chapter*/*
+
+*.pdf
+
+!Chapter*/*.cpp
