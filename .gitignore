@@ -1,8 +1,10 @@
 .vscode
 .DS_Store
 Chapter*/*
+SourceCode/*/*
 
 *.pdf
 
 !Chapter*/*.cpp
 !Chapter*/*.md
+!SourceCode/*/*.cpp
