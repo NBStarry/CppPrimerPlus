@@ -8,4 +8,5 @@ test*
 
 !Chapter*/*.cpp
 !Chapter*/*.md
+!Chapter*/*.txt
 !SourceCode/*/*.cpp
