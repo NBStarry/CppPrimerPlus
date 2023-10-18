@@ -1,12 +1,14 @@
 .vscode
 .DS_Store
-Chapter*/*
+Chapter*/**/*
 SourceCode/*/*
 test*
 
 *.pdf
 
-!Chapter*/*.cpp
+!Chapter*/**/*.cpp
+!Chapter*/**/*.h
+!Chapter9/*/
 !Chapter*/*.md
 !Chapter*/*.txt
 !SourceCode/*/*.cpp
