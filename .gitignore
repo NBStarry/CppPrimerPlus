@@ -9,6 +9,7 @@ test*
 !Chapter*/**/*.cpp
 !Chapter*/**/*.h
 !Chapter9/*/
+!Chapter10/*/
 !Chapter*/*.md
 !Chapter*/*.txt
 !SourceCode/*/*.cpp
